@@ -5,7 +5,7 @@ img {
 }
 
 body {
-	background-color: black;
+	background-color: rgb(51, 12, 12);
 	color: white;
 }
 
@@ -15,4 +15,11 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+}
+.header {
+	text-align: center;
+}
+
+.image-body {
+	text-align: center;
 }
